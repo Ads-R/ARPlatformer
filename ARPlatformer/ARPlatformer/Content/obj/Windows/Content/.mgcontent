@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Fonts/HeadingFont.spritefont</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Fonts/SmallFont.spritefont</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Fonts/StandardFont.spritefont</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Fonts/SubjectFont.spritefont</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Images/BG.png</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Images/new_main_menu_background.png</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Images/newAboutbg.png</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Images/newChar.png</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Images/newCoin.png</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Images/newDoor.png</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Images/newInformationbg.png</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Images/newTile.png</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Images/newTitle.png</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Sounds/coin_effect.wav</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Sounds/jump.wav</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Sounds/menu_sound_effect.wav</File>
+    <File>C:/Users/15197/Desktop/ARFinalProject/ARPlatformer/ARPlatformer/Content/Sounds/run.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Images/Background</File>
+    <File>Images/Background_Main_Menu</File>
+    <File>Images/Background_About</File>
+    <File>Images/Player</File>
+    <File>Images/Coin</File>
+    <File>Images/Door</File>
+    <File>Images/Background_Information</File>
+    <File>Images/Tile</File>
+    <File>Images/Title</File>
+    <File>Sounds/CoinEffect</File>
+    <File>Sounds/Jump</File>
+    <File>Sounds/Rollover</File>
+    <File>Sounds/Run</File>
+  </DestFiles>
+</SourceFileCollection>

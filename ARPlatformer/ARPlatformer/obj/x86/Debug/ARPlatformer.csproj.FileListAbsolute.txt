@@ -1,0 +1,121 @@
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\ARPlatformer.exe
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\ARPlatformer.pdb
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.dll
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.xml
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.csprojAssemblyReference.cache
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.csproj.CoreCompileInputs.cache
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.csproj.CopyComplete
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.exe
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.pdb
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\StandardFont.xnb
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\978-1-4302-6605-1_7_Fig2_HTML.xnb
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Player.xnb
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Tile.xnb
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Sounds\Jump.xnb
+C:\PROG2370 - Game Programming\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Sounds\Run.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\978-1-4302-6605-1_7_Fig2_HTML.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Player.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Tile.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Sounds\Jump.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Sounds\Run.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\StandardFont.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\ARPlatformer.exe
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\ARPlatformer.pdb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.csprojAssemblyReference.cache
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.csproj.CoreCompileInputs.cache
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.csproj.CopyComplete
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.exe
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.pdb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Background.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Coin.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Door.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Title.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Background_Main_Menu.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Sounds\Rollover.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Sounds\CoinEffect.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\HeadingFont.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\SubjectFont.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\SmallFont.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Background_About.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Background_Information.xnb
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\ARPlatformer.exe.manifest
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\ARPlatformer.application
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.exe.manifest
+C:\Users\15197\Desktop\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.application
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\978-1-4302-6605-1_7_Fig2_HTML.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Sounds\CoinEffect.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Sounds\Jump.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Sounds\Rollover.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Sounds\Run.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Background.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Background_About.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Background_Information.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Background_Main_Menu.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Coin.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Door.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Player.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Tile.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Images\Title.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\HeadingFont.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\SmallFont.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\StandardFont.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\SubjectFont.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\ARPlatformer.exe.manifest
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\ARPlatformer.application
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\ARPlatformer.exe
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\ARPlatformer.pdb
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.csprojAssemblyReference.cache
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.csproj.CoreCompileInputs.cache
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.exe.manifest
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.application
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.csproj.CopyComplete
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.exe
+C:\Users\15197\Desktop\ARFinalProject\ARPlatformer\ARPlatformer\obj\x86\Debug\ARPlatformer.pdb
